@@ -3,7 +3,7 @@
 | | |
 |-|-|
 | **Status**     | _**Proposed**, Accepted, Implemented, Obsolete_ |
-| **RFC #**      | https://github.com/spinnaker/governance/pull/195 |
+| **RFC #**      |  |
 | **Author(s)**  | Pranav Bhaskaran (@Pranav-b-7) (https://github.com/Pranav-b-7)
 | **SIG / WG**   | sig-security
 | **Obsoletes**  | _<RFC-#s>, if any, or remove header_ |
@@ -100,7 +100,7 @@ sample request payload:
 							"imageId": "sha256:390cc7609d3bd3ab1fe8620fbf28d3e9c912c69a901f99e93af7d3b081ff6de2,sha25,sha256:ddbd686f8b5e3d3744443ebbdb0d91284da61f30f78604eabf193e065870f0726:6fed5fb61064c25e91e8afad7e199f20fd1422893bac05fdd2cae274790319fb"
 						}]
 					}],
-					"gateUrl": "https://example.com/visibilityservice/v5/approvalGates/203/trigger",
+					"gateUrl": "https://example.com/xxx/xxx/xxx/xxx/trigger",
 					"imageIds": "nginx:1.14.2"
 				},
 				"refId": "2",
@@ -165,7 +165,7 @@ sample request payload:
 			"triggers": [],
 			"updateTs": "1628769454000"
 		},
-		"user": "user2"
+		"user": "xxx"
 	}]
 }
 
